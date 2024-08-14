@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dginxreal&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dginxreal"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dginxreal&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+
+</br>
+</br>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dginxreal}/count.svg" /></p> 
+<br>
+</div>
